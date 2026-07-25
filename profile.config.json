@@ -34,36 +34,52 @@
   ],
   "projects": [
     {
+      "name": "Abyss Walker",
+      "url": "https://drive.google.com/drive/folders/1FKSyG56EY9pZadOPE-2npYCThdWzyX-q?usp=sharing",
+      "homepage": "",
+      "focus": "2D pixel game",
+      "summary": "A full-stack 2D pixel game project built with Unity and Aseprite, focused on gameplay, art, and polished experience.",
+      "heroLabel": "Pixel game"
+    },
+    {
+      "name": "Anomaly Chase",
+      "url": "https://drive.google.com/drive/folders/1UB4JwxtIXJ0uAskvVuYqfE6oUMoKOJWq?usp=sharing",
+      "homepage": "",
+      "focus": "Gameplay & systems",
+      "summary": "Character design, core gameplay mechanics, and debugging work for an action-oriented game prototype.",
+      "heroLabel": "Gameplay systems"
+    },
+    {
+      "name": "RATURU Home Fever",
+      "url": "https://drive.google.com/drive/folders/1tVfJwvPPmfe2QeAdjtUlrre100QB2GNN?usp=sharing",
+      "homepage": "",
+      "focus": "Environment art",
+      "summary": "A low-poly 3D environment and visual identity project covering art direction, icon design, and game visuals.",
+      "heroLabel": "Art direction"
+    },
+    {
+      "name": "Cyber Education",
+      "url": "https://drive.google.com/drive/folders/1tl5Ma4flqQRTwkkx8YfGy7_xrSJwlvN7?usp=sharing",
+      "homepage": "",
+      "focus": "WebGL game level",
+      "summary": "Developed gameplay logic and debugging for the final level of a browser-based educational game experience.",
+      "heroLabel": "WebGL gameplay"
+    },
+    {
+      "name": "KAHF Analyzer", 
+      "url": "https://hair-analyzer.kahfeveryday.com/",
+      "homepage": "https://hair-analyzer.kahfeveryday.com/",
+      "focus": "Fullstack web app",
+      "summary": "Built the frontend, database integration, and backend logic for a production web application with API connectivity.",
+      "heroLabel": "Web app"
+    },
+    {
       "name": "GarionX AI",
-      "url": "https://github.com/GaroxXiz/garionx-ai",
-      "homepage": "",
-      "focus": "Agentic payment infrastructure",
-      "summary": "A practical layer for monetizing API access through transparent, blockchain-backed settlement flows.",
-      "heroLabel": "Agentic payments"
-    },
-    {
-      "name": "Fradium",
-      "url": "https://github.com/fradiumofficial/fradium",
-      "homepage": "https://fradium.io",
-      "focus": "AI-powered trust layer",
-      "summary": "Address analysis and threat detection for safer Web3 activity with clear signals.",
-      "heroLabel": "Web3 trust"
-    },
-    {
-      "name": "NovaAI",
-      "url": "https://github.com/OfficialNovaAI/nova-wallet",
-      "homepage": "",
-      "focus": "AI wallet orchestration",
-      "summary": "A chat-first wallet layer for transaction preparation, analysis, and payments.",
-      "heroLabel": "Intelligent wallet"
-    },
-    {
-      "name": "Quorum",
-      "url": "https://github.com/GaroxXiz",
-      "homepage": "",
-      "focus": "Autonomous coordination",
-      "summary": "An exploration of coordination and accountability across autonomous agent systems.",
-      "heroLabel": "Agent coordination"
+      "url": "https://garionx.vercel.app/",
+      "homepage": "https://garionx.vercel.app/",
+      "focus": "AI product platform",
+      "summary": "Developed a multi-agent AI platform with custom agents, dynamic routing, and multimedia AI tooling.",
+      "heroLabel": "AI platform"
     }
   ],
   "techStack": ["TypeScript", "Next.js", "Python", "Solidity", "Stellar", "PostgreSQL", "Playwright"],

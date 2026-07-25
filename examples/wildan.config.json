@@ -1,11 +1,11 @@
 {
   "$schema": "../profile.schema.json",
   "profile": {
-    "name": "Wildan Syukri Niam",
-    "username": "wildanniam",
-    "headline": "AI Researcher & Web3 Builder",
-    "affiliation": "Telkom University",
-    "location": "Bandung, Indonesia",
+    "name": "Maulana Rizwan Ahmad",
+    "username": "GaroxXiz",
+    "headline": "Fullstack & Game Developer",
+    "affiliation": "President University",
+    "location": "Bekasi, Indonesia",
     "status": "Researching / Building / Shipping",
     "about": [
       "I explore the intersection of AI agents, Web3 trust, and on-chain intelligence through research and real-world software systems.",
@@ -34,8 +34,8 @@
   ],
   "projects": [
     {
-      "name": "PayGate",
-      "url": "https://github.com/wildanniam/paygate-stellar",
+      "name": "GarionX AI",
+      "url": "https://github.com/GaroxXiz/garionx-ai",
       "homepage": "",
       "focus": "Agentic payment infrastructure",
       "summary": "A payment layer for monetizing API access through blockchain-based settlement.",
