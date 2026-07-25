@@ -1,77 +1,82 @@
 {
-  "$schema": "./profile.schema.json",
+  "$schema": "../profile.schema.json",
   "profile": {
-    "name": "Your Name",
-    "username": "yourusername",
-    "headline": "AI Engineer & Product Builder",
-    "affiliation": "Your University or Company",
-    "location": "City, Country",
-    "status": "Learning / Building / Shipping",
+    "name": "Maulana Rizwan Ahmad",
+    "username": "GaroxXiz",
+    "headline": "Software Engineer • AI & Games",
+    "affiliation": "President University",
+    "location": "Bekasi, Indonesia",
+    "status": "Building / Shipping / Learning",
     "about": [
-      "I build practical systems at the intersection of artificial intelligence, software engineering, and products people can trust.",
-      "My work combines technical exploration with a builder mindset: understand the problem, test the system, and share what actually works."
+      "I build software at the intersection of AI, web products, and interactive experiences.",
+      "My work focuses on reliable systems, thoughtful UX, and tools that turn ideas into real products."
     ]
   },
   "research": {
-    "primary": "AI Agents",
-    "direction": "Reliable autonomous systems",
-    "themes": "Tool use / evaluation / human control",
-    "narrative": "I am interested in systems that can observe state, use tools, evaluate outcomes, and take bounded actions with clear evidence and human oversight."
+    "primary": "Agentic software",
+    "direction": "Applied AI and product systems",
+    "themes": "RAG / tooling / evaluation",
+    "narrative": "I am especially interested in systems where AI helps people reason, automate tasks, and ship products with clear control and measurable outcomes."
   },
   "focus": [
     {
-      "name": "AI Agents",
-      "description": "Autonomous workflows, tool use, evaluation, and reliable agent behavior."
+      "name": "Fullstack products",
+      "description": "Reliable web experiences, backend systems, and product-minded engineering."
     },
     {
-      "name": "Applied AI",
-      "description": "Turning model capabilities into useful and testable software systems."
+      "name": "AI systems",
+      "description": "Applied agents, automation workflows, and practical AI integrations."
     },
     {
-      "name": "Developer Tools",
-      "description": "Better workflows for building, testing, and operating modern software."
+      "name": "Game tooling",
+      "description": "Interactive experiences, tooling, and polished user-facing features."
     }
   ],
   "projects": [
     {
-      "name": "Project One",
-      "url": "https://github.com/yourusername/project-one",
+      "name": "GarionX AI",
+      "url": "https://github.com/GaroxXiz/garionx-ai",
       "homepage": "",
-      "focus": "Primary project focus",
-      "summary": "A concise explanation of what the project does and why it matters.",
-      "heroLabel": "Primary build"
+      "focus": "Agentic payment infrastructure",
+      "summary": "A practical layer for monetizing API access through transparent, blockchain-backed settlement flows.",
+      "heroLabel": "Agentic payments"
     },
     {
-      "name": "Project Two",
-      "url": "https://github.com/yourusername/project-two",
+      "name": "Fradium",
+      "url": "https://github.com/fradiumofficial/fradium",
+      "homepage": "https://fradium.io",
+      "focus": "AI-powered trust layer",
+      "summary": "Address analysis and threat detection for safer Web3 activity with clear signals.",
+      "heroLabel": "Web3 trust"
+    },
+    {
+      "name": "NovaAI",
+      "url": "https://github.com/OfficialNovaAI/nova-wallet",
       "homepage": "",
-      "focus": "Secondary project focus",
-      "summary": "A second project that supports the professional direction of this profile.",
-      "heroLabel": "Active system"
+      "focus": "AI wallet orchestration",
+      "summary": "A chat-first wallet layer for transaction preparation, analysis, and payments.",
+      "heroLabel": "Intelligent wallet"
+    },
+    {
+      "name": "Quorum",
+      "url": "https://github.com/GaroxXiz",
+      "homepage": "",
+      "focus": "Autonomous coordination",
+      "summary": "An exploration of coordination and accountability across autonomous agent systems.",
+      "heroLabel": "Agent coordination"
     }
   ],
-  "techStack": [
-    "TypeScript",
-    "Next.js",
-    "Python",
-    "PostgreSQL",
-    "Playwright"
-  ],
+  "techStack": ["TypeScript", "Next.js", "Python", "Solidity", "Stellar", "PostgreSQL", "Playwright"],
   "links": [
     {
       "label": "GitHub",
-      "value": "yourusername",
-      "url": "https://github.com/yourusername",
+      "value": "GaroxXiz",
+      "url": "https://github.com/GaroxXiz",
       "logo": "github",
       "color": "0B1220"
     }
   ],
-  "activity": {
-    "enabled": true,
-    "limit": 6
-  },
-  "appearance": {
-    "palette": "signal"
-  },
-  "footer": "Building thoughtful systems and sharing what works."
+  "activity": { "enabled": true, "limit": 6 },
+  "appearance": { "palette": "signal" },
+  "footer": "Building practical products with AI, code, and thoughtful systems design."
 }
