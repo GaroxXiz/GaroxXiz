@@ -95,8 +95,8 @@ async function validatePortrait(sourceBuffer, sourcePath) {
 }
 
 async function samplePortrait(sourceBuffer, columns, rows) {
-  const trimOptions = { background: { r: 0, g: 0, b: 0, alpha: 0 }, threshold: 8 };
-  const resizeOptions = { fit: "contain", kernel: sharp.kernel.lanczos3, background: { r: 0, g: 0, b: 0, alpha: 0 } };
+  const trimOptions = { background: { r: 0, g: 0, b: 0, alpha: 0 }, threshold: 10 };
+  const resizeOptions = { fit: "contain", position: "centre", background: { r: 0, g: 0, b: 0, alpha: 0 }, kernel: sharp.kernel.lanczos3 };
   const luminancePipeline = sharp(sourceBuffer)
     .ensureAlpha()
     .trim(trimOptions)
