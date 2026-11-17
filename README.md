@@ -49,10 +49,11 @@ I am especially interested in systems where AI helps people reason, automate tas
 ## Recent Activity
 
 <!-- AUTO:ACTIVITY:START -->
+- Nov 16, 2026: pushed 1 commit to [abdul-yudi/ta_global](https://github.com/abdul-yudi/ta_global).
+- Nov 16, 2026: pushed 1 commit to [GaroxXiz/ta_global_backend](https://github.com/GaroxXiz/ta_global_backend).
 - Nov 9, 2026: pushed 1 commit to [abdul-yudi/ta_global](https://github.com/abdul-yudi/ta_global).
 - Nov 9, 2026: created a branch in [GaroxXiz/ta_global_backend](https://github.com/GaroxXiz/ta_global_backend).
 - Nov 9, 2026: pushed 1 commit to [GaroxXiz/ta_global_backend](https://github.com/GaroxXiz/ta_global_backend).
-- Oct 16, 2026: pushed 1 commit to [GaroxXiz/WebPorto](https://github.com/GaroxXiz/WebPorto).
 <!-- AUTO:ACTIVITY:END -->
 
 ---
